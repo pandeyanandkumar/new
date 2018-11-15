@@ -1,0 +1,6 @@
+21:52:10,067 DEBUG devpinoyLogger:41 - Object repository properties file loaded
+21:52:10,067 DEBUG devpinoyLogger:46 - Configuration properties file loaded
+21:52:13,763 DEBUG devpinoyLogger:58 - Opening IE browser now
+21:52:14,857 DEBUG devpinoyLogger:26 - executing buy item now
+21:54:01,121 DEBUG devpinoyLogger:25 - executing View Credit card balance now
+21:55:29,745 DEBUG devpinoyLogger:81 - Enetring After Suite
