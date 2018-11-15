@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test_suite">
+
+
+
+
+<test name="CheckoutCart">
+    <classes>
+        <class name="com.anand.demoprj1.tests.CheckoutCart" ></class>  
+    </classes>
+</test>
+
+<test name="ViewCreditCardBalance">
+    <classes>
+        <class name="com.anand.demoprj1.tests.ViewCreditCardBalance" ></class>  
+    </classes>
+</test>
+
+
+</suite>
